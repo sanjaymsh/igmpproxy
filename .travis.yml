@@ -19,7 +19,7 @@ matrix:
     - compiler: gcc-4.4
       arch: ppc64le
       dist: trusty
-      env: PLATFORM=ppc64le
+      env: PLATFORM=powerpc
       addons:
         apt:
           packages:
